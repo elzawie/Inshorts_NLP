@@ -3,8 +3,8 @@ In this Jupyter Notebook we will be working with news articles retrieved from In
 The main focus is to cover some aspects of NLP like:
 - Data Retrieval with Web Scraping
 - Text wrangling and pre-processing
-- Parts of Speech Tagging
+- Parts of Speech tagging + visualizing dependencies
 - Named Entity Recognition
-- Building a classifier able to recognize type of content based on words used in the article
+- Building a classifier able to recognize type of content based on used words
 
 

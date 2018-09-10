@@ -1,4 +1,4 @@
-In this Jupyter Notebook we will be working with news articles retrieved from https://inshorts.com , a website that gives us short, 60-word news articles on a wide variety of topics. Inshorts provides news for 12 thematically different sets of content like: Sports, Politics, Business and Technology.
+In this Jupyter Notebook we will be working with news articles retrieved from https://inshorts.com - website that gives us short, 60-word news articles on a wide variety of topics. Inshorts provides news for 12 thematically different sets of content like: Sports, Politics, Business and Technology.
 
 The main focus is to cover some aspects of NLP like:
 - Data retrieval with web scraping
@@ -7,3 +7,4 @@ The main focus is to cover some aspects of NLP like:
 - Named Entity Recognition
 - Feature Engineering
 - Building classifiers able to recognize type of content based on words used in the article
+
